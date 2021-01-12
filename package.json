@@ -1,0 +1,12 @@
+{
+  "name": "redux-simple-examples",
+  "version": "1.0.0",
+  "description": "Simple Redux examples for understanding",
+  "main": "index.js",
+  "repository": "https://github.com/avijeetpandey/redux-simple-examples.git",
+  "author": "Avijeet Pandey <avijeetpandey25@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
